@@ -2,12 +2,12 @@
 Meu nome é Jéssica e atualmente estou estudando e iniciando carreira na área de desenvolvimento de Software Full-Stack na Trybe.
 Tive experiência sólida como enfermeira e utilizo as habilidades adquiridas previamente na área no meu dia a dia, como liderança, habilidade em tomar decisões, alta resiliência, integridade e aprendizagem rápida.🚀
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jessicapironato">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessicapironato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapironato&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+ -->
 
   
   </div>
